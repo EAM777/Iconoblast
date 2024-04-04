@@ -1,6 +1,6 @@
 # Iconoblast
 
-Iconoblast is an open source iOS developer app icon utility application designed to streamline the process of creating different sizes of icons from a large image for various device requirements. This app takes a single large size image and generates multiple icon sizes based on the given dimensions array. Efficiently storing them in the documents direct in iOS Files app to be able to share. 
+Iconoblast is an open source iOS developer app icon utility application designed to streamline the process of creating different sizes of icons from a large image for various device requirements. This app takes a single large size image and generates multiple icon sizes based on the given dimensions array. Efficiently storing them in the documents direct in iOS Files app to be able to share. >_<!
 
 ## Supported Icon Dimensions
 Iconoblast supports creating icons with the following dimensions:
@@ -26,6 +26,7 @@ Iconoblast supports creating icons with the following dimensions:
 
 ## About the Developer
 Iconoblast is developed by Elliot Alexander Monge, an enthusiastic developer passionate about creating efficient tools for fellow developers. You can find more projects and contributions by Elliot Alexander Monge on [GitHub](https://github.com/EAM777).
+    
 
 ---
 

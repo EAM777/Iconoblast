@@ -109,8 +109,8 @@ class ViewController: UIViewController, UINavigationControllerDelegate, UIImageP
     func setupHeader(){
         headerLabel.frame = CGRect(x: 50, y: 50, width: 240, height: 50)
          headerLabel.text = "Iconoblast"
-         headerLabel.textColor = lightGreenA200
-         headerLabel.layer.shadowColor = pinkA400.cgColor
+        headerLabel.textColor = .white
+        headerLabel.layer.shadowColor = UIColor.darkGray.cgColor
          headerLabel.layer.shadowOffset = CGSize(width: 3, height: 3)
          headerLabel.layer.shadowRadius = 1
          headerLabel.layer.shadowOpacity = 0.8

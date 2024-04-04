@@ -90,7 +90,6 @@ class ViewController: UIViewController, UINavigationControllerDelegate, UIImageP
         }
         if interfaceOrientation.isLandscape {
             print("The view is in landscape mode")
-
         } else {
             print("The view is in portrait mode")
 

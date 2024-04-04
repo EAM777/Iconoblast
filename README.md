@@ -22,7 +22,7 @@ Iconoblast supports creating icons with the following dimensions:
 - 192x192
 - 1024x1024
 
-[Alt text](iconoblast_sc1.jpeg)
+![Alt text](iconoblast_sc1.jpeg)
 
 ## About the Developer
 Iconoblast is developed by Elliot Alexander Monge, an enthusiastic developer passionate about creating efficient tools for fellow developers. You can find more projects and contributions by Elliot Alexander Monge on [GitHub](https://github.com/EAM777).
